@@ -1,4 +1,3 @@
-import React from 'react'
 import './App.css'
 import Nextpage from './pages/Nextpage'
 import { BrowserRouter, Routes, Route } from "react-router-dom"
